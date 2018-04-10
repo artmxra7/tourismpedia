@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "981553125915",
+    "firebase_url": "https://tourismpedia.firebaseio.com",
+    "project_id": "tourismpedia",
+    "storage_bucket": "tourismpedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981553125915:android:5c7f20142013b968",
+        "android_client_info": {
+          "package_name": "artmx.tourismpedia.indo.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981553125915-lp0ms85tpsqkur2qjfpr8rifpia9idkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1sIUGP3s6rK3jcxOH-iaTFZZ6Dsqgms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

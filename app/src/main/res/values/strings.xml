@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name" translatable="false">tourismpedia</string>
+    <string name="app_desc">Your travel guide</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_feedback">Send feedback</string>
+    <string name="action_info">About</string>
+    <string name="action_signOut">Sign out</string>
+    <string name="action_rate">Rate this App</string>
+    <string name="action_share">Share</string>
+    <string name="action_share_app">Share App</string>
+    <string name="feed_menu">Feed</string>
+    <string name="near_menu">Near Me</string>
+    <string name="top_menu">Top</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_about">About</string>
+    <string name="str_version">Version</string>
+    <string name="hint_search">Search</string>
+
+    <string name="route_to">Route to</string>
+    <string name="enable_provider">Enabled new provider</string>
+    <string name="disable_provider">Disabled provider</string>
+    <string name="direction_language">en</string> <!-- en (English) -->
+    <!--Splash screen-->
+    <string name="cd_splash_image">Tourismpedia logo</string>
+
+    <string name="gps_failed">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="setting_test">Settings</string>
+
+    <!--Drawer items-->
+    <string name="title_feedback">Feedback on Tourismpedia</string>
+    <string name="email_admin">artmxarea@gmail.com</string>
+    <string name="share_app_desc">An easy way to discover new places to visit. Travel like a Pro! </string>
+    <string name="desc_app_version">App version :&#160;</string>
+    <string name="desc_device_info">Device info :&#160;</string>
+    <string name="title_titlebar_info">Info</string>
+    <string name="title_titlebar_privacy_policy">Privacy Policy</string>
+    <string name="title_titlebar_favorites">Favorite places</string>
+    <string name="site_admin"></string>
+    <string name="site_privacy_policy"></string>
+    <string name="cd_user_avatar">User Display picture</string>
+    <string name="gps_settings">GPS Settings</string>
+
+
+    <!--Home screen-->
+    <string name="home_search_hint"><font size="10">Where do you want to go?</font></string>
+    <string name="error_api">Place selection failed: </string>
+    <string name="cd_fab_search">Search</string>
+    <string name="cd_current_card">Current Location</string>
+    <string name="text_size_home_search" translatable="false">15</string>
+
+
+    <!--City screen-->
+    <string name="cd_city_banner">City banner</string>
+    <string name="title_hotel">Hotels</string>
+    <string name="title_restaurant">Restaurants</string>
+    <string name="title_top_spots">Spot Terbaik</string>
+    <string name="title_places">Places of Interest</string>
+    <string name="title_shopping">Belanja</string>
+    <string name="title_kuliner">Kuliner</string>
+    <string name="title_wisata">Wisata</string>
+    <string name="title_event">Event</string>
+    <string name="title_budaya">Budaya</string>
+    <!--places screen-->
+    <string name="title_activity_hotels">Hotels</string>
+
+    <!-- place screen-->
+    <string name="cd_fab_fav">Favorite</string>
+    <string name="title_icon_url">Website</string>
+    <string name="title_directions">Directions</string>
+    <string name="title_call">Call</string>
+    <string name="place_desc"> </string>
+    <string name="intent_desc_link">Complete action using</string>
+    <string name="intent_desc_share">Share via</string>
+    <string name="title_reviews">Top reviews</string>
+
+    <!-- favorites screen-->
+    <string name="cd_favs_banner">Favorite places banner</string>
+    <string name="title_favorite_places">Favorite places</string>
+    <string name="title_no_favs">It looks empty in here.</string>
+    <string name="desc_no_favs">Start adding places to your favorites \n by tapping the ♥ icon!</string>
+    <string name="title_offline">Internet connection appears to be offline. \n Please try again later !</string>
+    <string name="text_retry">Retry</string>
+
+    <!--feedscreen-->
+    <string name="title_nofeed">Tidak ada update status terbaru</string>
+
+
+    <!--NotificationScreen-->
+    <string name="title_no_notification">Anda tidak memiliki pemberitahuan terbaru</string>
+
+    <!--APp wide -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--shared animations-->
+    <string name="transition_image">thumbnail</string>
+
+
+    <!--Notifications-->
+    <string name="notify_failed_location">Unable to get location</string>
+    <string name="notify_permission_denied">Allow access to location services to explore nearby places !</string>
+    <string name="notify_permission_accepted">Awesome ! Location based suggestions will be shown from now. </string>
+    <string name="snackbar_action_allow">I\'M IN</string>
+    <string name="snackbar_action_ok">OK</string>
+    <string name="notify_favorite">Added to favorites !</string>
+    <string name="notify_unfavorite">Removed from favorites !   </string>
+    <string name="notify_connection">Connection appears to be offline ! Try again later. </string>
+
+    <!--Alerts-->
+    <string name="alert_title_signout_desc">Are you sure?</string>
+    <string name="alert_choice_positive_ok">OK</string>
+    <string name="alert_choice_positive_signOut">SIGN OUT</string>
+    <string name="alert_title_signout">Sign out</string>
+
+    <!--Admob-->
+    <string name="banner_ad_unit_id">ca-app-pub-1589330732834822/6070642390</string>
+    <string name="admob_banner">BANNER</string>
+    <string name="admob_smart_banner">SMART_BANNER</string>
+    <string name="admob_loaded">Ad is loaded</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!--Widget-->
+    <string name="widget_label" translatable="false">Tourismpedia</string>
+    <string name="appwidget_text" translatable="false">Favorite places</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="rating_divider">/5</string>
+
+
+    <!--Swipe intro strings-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Tourismpedia</string>
+    <string name="slide_1_desc">Exploring just got easier ! See more and plan less.</string>
+
+    <string name="slide_2_title">Find restaurants and hotels </string>
+    <string name="slide_2_desc">See pictures and reviews of great new places also with driving directions !</string>
+
+    <string name="slide_3_title">Store and sync app data in realtime</string>
+    <string name="slide_3_desc">Access your favorite places across all of your devices.</string>
+
+    <string name="slide_4_title">Simple, trusted and secure way to Sign-in</string>
+    <string name="slide_4_desc">Sign in with Google, to create more engaging experience.</string>
+
+
+    <!-- Account strings-->
+    <string name="drawer_user_title">Sign In</string>
+
+    <!--Firebase strings-->
+    <string name="general_error">An error has occurred.</string>
+    <string name="sign_in_default">Sign in</string>
+    <string name="progress_dialog_loading">Loading…</string>
+    <string name="progress_dialog_signing_up">Signing up…</string>
+
+    <!--custom Error-->
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred. We\'re deeply sorry. We will fix it as soon as posible!</string>
+    <string name="customactivityoncrash_error_activity_error_title">Something went wrong.</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">RESTART APP</string>
+    <string name="customactivityoncrash_error_activity_close_app">CLOSE APP</string>
+    <string name="customactivityoncrash_error_activity_error_details">ERROR DETAILS</string>
+    <string name="customactivityoncrash_error_activity_error_report">REPORT ERROR</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Copied to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_reported">Thank you! An error has been reported!</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error information</string>
+
+
+    <!-- - - - - - - ABOUT CONFIG- - - - - - - - -->
+    <string name="facebook_id">erwin.soe</string>
+    <string name="twitter_id">erwinra7</string>
+    <string name="instagram_id"></string>
+    <string name="email_id">artmxarea@gmail.com</string>
+    <string name="youtube_id"></string>
+    <string name="url"></string>
+    <string name="app_description">Tourismpedia adalah aplikasi informasi tempat-tempat penting (Point of Interest). Aplikasi ini dapat membantu para turis lokal atau dari luar kota untuk mencari tempat terbaik untuk dikunjungi</string>
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+
+
+</resources>
